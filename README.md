@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lumilaele
+- 👀 I’m interested in developing IOS apps
+- 🌱 I’m currently learning to code on swift
+- 📫 How to reach me: lumila.lema@gmail.com
